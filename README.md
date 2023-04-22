@@ -8,7 +8,7 @@ Generate a docker-compose that will run the application and expose the port 8080
 
 ---
 
-### Run the application
+## Run the application
 
 ```
 docker-compose up -d
@@ -16,7 +16,7 @@ docker-compose up -d
 
 ---
 
-### Access the application
+## Access the application
 
 [http://localhost:8080/](http://localhost:8080/)
 
